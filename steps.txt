@@ -1,0 +1,12 @@
+steps to create express application
+1.create new project 
+2.create public folder in porject
+3.create views folder if you want to create dynamic pages
+4.run following commands to make your project express application
+	>npm init -y
+	>npm install express
+	if you want to create dynamic website run following commands also
+	>npm install ejs
+	>npm install body-parser
+	>npm install request
+5 start creating files for your application.
