@@ -1,0 +1,43 @@
+*{
+    background-color: black;
+}
+.centered-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .box {
+    background-color: rgb(128, 128, 128);
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .red {
+    background-color: GREEN;
+    color: white;
+  }
+  
+  .green {
+    background-color: skyblue;
+    color: white;
+  }
+  
+  .blue {
+    background-color: RED;
+    color: white;
+  }
+  .title{
+    color: aqua;
+    background-color: gray;
+    text-align: center;
+  }
